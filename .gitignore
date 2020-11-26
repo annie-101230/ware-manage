@@ -1,0 +1,26 @@
+# Project exclude paths
+/common/common-util/target/
+/common/rabbit-util/target/
+/common/service-util/target/
+/common/web-util/target/
+/model/target/
+/server-gateway/target/
+/service/service-cart/target/
+/service/service-item/target/
+/service/service-list/target/
+/service/service-mq/target/
+/service/service-order/target/
+/service/service-payment/target/
+/service/service-product/target/
+/service/service-seckill/target/
+/service/service-test/target/
+/service/service-user/target/
+/sevice-client/service-cart-client/target/
+/sevice-client/service-item-client/target/
+/sevice-client/service-list-client/target/
+/sevice-client/service-order-client/target/
+/sevice-client/service-product-client/target/
+/sevice-client/service-seckill-client/target/
+/sevice-client/service-user-client/target/
+/ware-manage/target/
+/web/web-all/target/
